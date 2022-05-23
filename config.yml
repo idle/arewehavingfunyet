@@ -1,10 +1,10 @@
-title: The Butler
-baseline: Your blogging assistant
-description: A ready to use static blog, powered by Cecil.
+title: Kai CAS
+baseline: Kai's CAS profile
+description: A list of Kai's CAS activities + profile
 baseurl: /
 canonicalurl: true
-keywords: [Cecil, Static Site Generator, SSG]
-author: Arnaud Ligny
+keywords: []
+author: Kai Wahlin
 date:
   format: j F Y
   timezone: Europe/Paris
