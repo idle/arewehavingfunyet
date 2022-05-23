@@ -1,5 +1,5 @@
 ---
-title: Cooking - creativity CAS project
+title: Cooking 
 description: "Reflection + Photos of Cooking Cas Project."
 date: May 21 2022
 ---
